@@ -1,0 +1,3 @@
+[submodule "code/unajar/spec"]
+	path = code/unajar/spec
+	url = https://github.com/lewagon/fullstack-challenges-04-Rails-watch-list-specs.git
